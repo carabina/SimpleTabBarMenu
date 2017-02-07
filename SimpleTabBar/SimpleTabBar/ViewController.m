@@ -2,8 +2,8 @@
 //  ViewController.m
 //  SimpleTabBar
 //
-//  Created by TQI on 25/08/16.
-//  Copyright © 2016 TQI. All rights reserved.
+//  Created by Luis Teodoro Junior on 24/08/16.
+//  Copyright © 2016 Luis Teodoro Junior. All rights reserved.
 //
 
 #import "ViewController.h"

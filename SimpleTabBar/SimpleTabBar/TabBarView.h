@@ -1,9 +1,9 @@
 //
-//  TabBarView.h
-//  TQIExtranet
+//  TabBarView.m
 //
-//  Created by TQI on 24/08/16.
-//  Copyright © 2016 TQI. All rights reserved.
+//
+//  Created by Luis Teodoro Junior on 24/08/16.
+//  Copyright © 2016 Luis Teodoro Junior. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
